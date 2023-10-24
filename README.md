@@ -1,1 +1,1 @@
-# examens_UF2177
+# Basic API for Retrieving Student Information from MySQL in Python using Flask.
