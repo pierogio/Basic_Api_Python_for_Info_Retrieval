@@ -6,7 +6,7 @@
 This code creates a Flask API that connects to a MySQL database to retrieve student information by their ID. It uses Docker to set up two MySQL instances. The database connection and queries are handled in separate files (connector.py and repository.py), and the main application is in main.py
 
 ## Technologies Used
-Python
-Flask
-Sql
-Docker
+* Python
+* Flask
+* Sql
+* Docker
